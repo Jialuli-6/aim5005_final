@@ -2,7 +2,7 @@
 
 The assignment is submitted via this GitHub link. The folder includes the following documents:
 
-1. a training dataset, Combined Data.csv;
+1. a training dataset, Combined Data.csv; [The dataset is larger than 25MB, so I zipped it for upload]
 
 2. a dataset used for the statement dataset prediction pipeline, sentiment_analysis.csv;
 
@@ -14,10 +14,12 @@ The assignment is submitted via this GitHub link. The folder includes the follow
 
 6. a Statement dataset prediction pipeline.py file, for a dataset of statements prediction, you can replace the statement dataset with anything that interests you;
 
-7. two pkl files, which contain the best trained model for the sentiment analysis task, and the vectorizer used, necessary for the pipeline deployment;
+7. two pkl files, which contain the best-trained model for the sentiment analysis task, and the vectorizer used, necessary for the pipeline deployment;
 
 8. and a final report document.
 
-We recommend that Professor run the Final project_short.py file to check each model's performance instead of the Final project.py file, which will take a much longer time to run. Professor can also try out the pipeline if interested.
+The original training dataset, Combined Data.csv, is too large to upload to GitHub, so it was zipped. When running the code, please unzip it first, which will keep the file name unchanged as 'Combined Data.csv' for a smooth data run.
+
+We recommend that Professor run the Final project_short.py file to check each model's performance instead of the Final project.py file, which will take much longer to run. Professor can also try out the pipeline if interested.
 
 The folder enables the direct work of the pd.read_csv if downloaded to local devices. We used python3 before the file path to run the .py file through the Mac terminal.
