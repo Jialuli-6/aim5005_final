@@ -1,6 +1,6 @@
 # aim5005_final
 
-The assignment is submitted via this GitHub link. The folder includes the following documents,
+The assignment is submitted via this GitHub link. The folder includes the following documents:
 
 1. a training dataset, Combined Data.csv;
 
